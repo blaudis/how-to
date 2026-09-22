@@ -1,0 +1,15 @@
+{
+  "$schema": "https://designsystemet.no/schemas/config/latest.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "theme": {
+      "colors": {
+        "accent": "#800b2b",
+        "brand1": "#add7c2",
+        "brand2": "#fed6ec",
+        "neutral": "#ddebf4"
+      },
+      "borderRadius": 4
+    }
+  }
+}
